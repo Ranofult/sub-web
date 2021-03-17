@@ -281,16 +281,6 @@ export default {
                   "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/customized/maying.ini"
               },
               {
-                label: "rixCloud",
-                value:
-                  "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/customized/rixcloud.ini"
-              },
-              {
-                label: "YoYu",
-                value:
-                  "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/customized/yoyu.ini"
-              },
-              {
                 label: "Ytoo",
                 value:
                   "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/customized/ytoo.ini"
@@ -319,6 +309,51 @@ export default {
                 label: "ssrCloud",
                 value:
                   "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/customized/ssrcloud.ini"
+              },
+              {
+                label: "ACL4SSR",
+                value:
+                  "https://raw.githubusercontent.com/Ranofult/ini/main/ACL4SSR.ini"
+              },
+              {
+                label: "ACL4SSR_AdblockPlus",
+                value:
+                  "https://raw.githubusercontent.com/Ranofult/ini/main/ACL4SSR_AdblockPlus.ini"
+              },
+              {
+                label: "ACL4SSR_Full",
+                value:
+                  "https://raw.githubusercontent.com/Ranofult/ini/main/ACL4SSR_Full.ini"
+              },
+              {
+                label: "ACL4SSR_Full_AdblockPlus",
+                value:
+                  "https://raw.githubusercontent.com/Ranofult/ini/main/ACL4SSR_Full_AdblockPlus.ini"
+              },
+              {
+                label: "ACL4SSR_Full_NoAuto",
+                value:
+                  "https://raw.githubusercontent.com/Ranofult/ini/main/ACL4SSR_Full_NoAuto.ini"
+              },
+              {
+                label: "ACL4SSR_Mini",
+                value:
+                  "https://raw.githubusercontent.com/Ranofult/ini/main/ACL4SSR_Mini.ini"
+              },
+              {
+                label: "ACL4SSR_Mini_AdblockPlus",
+                value:
+                  "https://raw.githubusercontent.com/Ranofult/ini/main/ACL4SSR_Mini_AdblockPlus.ini"
+              },
+              {
+                label: "ACL4SSR_Mini_NoAuto",
+                value:
+                  "https://raw.githubusercontent.com/Ranofult/ini/main/ACL4SSR_Mini_NoAuto.ini"
+              },
+              {
+                label: "ACL4SSR_NoAuto",
+                value:
+                  "https://raw.githubusercontent.com/Ranofult/ini/main/ACL4SSR_NoAuto.ini"
               }
             ]
           },
