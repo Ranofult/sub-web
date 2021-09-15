@@ -263,7 +263,7 @@ export default {
               {
                 label: "No-Urltest",
                 value:
-                  "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/universal/no-urltest.ini"
+                  "https://raw.githubusercontent.com/Ranofult/ini/main/no-urltest.ini"
               },
               {
                 label: "Urltest",
