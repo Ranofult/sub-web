@@ -276,6 +276,26 @@ export default {
             label: "customized",
             options: [
               {
+                label: "ACL4SSR",
+                value:
+                  "https://raw.githubusercontent.com/Ranofult/ini/main/ACL4SSR.ini"
+              },
+              {
+                label: "ACL4SSR_Full",
+                value:
+                  "https://raw.githubusercontent.com/Ranofult/ini/main/ACL4SSR_Full_NoAuto.ini"
+              },
+              {
+                label: "ACL4SSR_Mini",
+                value:
+                  "https://raw.githubusercontent.com/Ranofult/ini/main/ACL4SSR_Mini.ini"
+              },
+              {
+                label: "ACL4SSR_AdblockPlus",
+                value:
+                  "https://raw.githubusercontent.com/Ranofult/ini/main/ACL4SSR_AdblockPlus.ini"
+              },
+              {
                 label: "Maying",
                 value:
                   "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/maying.ini"
